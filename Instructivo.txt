@@ -1,0 +1,33 @@
+Instructivo:
+
+En la raiz del repositorio se encuentra el archivo SQL.
+
+En el index van a encontrar la creacion del ejercito
+o la busqueda de un ejercito ya creado.
+
+Al crear el ejercito o continuar con uno que ya estaba creado van a encontrar cada unidad detallando
+sus puntos de fuerza, la cantidad de monedas y la fuerza total de la unidad.
+
+van a tener la opcion de evolucionar cada unidad o entrenarla para poder ganar puntos de fuerza
+
+al final de la pagina van a encontrar la opcion de batalla en la cual permite elegir alguno de los ejercitos
+y batallar
+
+Tambien hay un boton que permite ver el historial de batallas realizadas, dentro de esta pantalla
+se dividen las batallas en las cual nuestro ejercito ataca y en cual fuimos atacados. 
+
+
+Tienen 3 ejercitos ya armados 
+
+chino: Popular de Liberación
+
+Ingles: Fuerzas Armadas
+
+bizantino: Barbaros
+
+pueden iniciar con cualquiera de ellos colocando el nombre del ejercito en el cuadro de busqueda 
+
+o directamente crear un nuevo ejercito entrenarlo y batallar con otros ejercitos. 
+
+
+En caso de empate tome la decision de que ambos ejercitos pierden a la unidad mas debil.
